@@ -1,0 +1,13 @@
+.header{
+    background-color:transparent;
+    color:#fefefe;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:larger;
+    font-weight: 700;
+    
+}
+.img{
+    width:100px;
+    height:100px;
+    object-fit: cover;
+}
